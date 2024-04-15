@@ -4,10 +4,10 @@ I'm Aretre, a passionate software developer and tech enthusiast. Welcome to my G
 
 🔭 Currently working on: Aretre's First App! 
 
-🌱 I'm currently learning: Programming languages, frameworks, technologies, or any other area of interest
+🌱 I'm currently learning: Python, HTML JAVA, and c++ 
 
 📫 How to reach me: tasnimaretre@gmail.com
 
 ⚡ Fun fact: I can break an apple with my hands! 
 
-👨‍💻 Languages and Tools: [ Java, JavaScript, HTML, CSS, GIT]
+👨‍💻 Languages and Tools: Java, JavaScript, HTML, CSS, GIT
